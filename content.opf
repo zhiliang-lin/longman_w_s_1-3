@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <opf:metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>longman words s w</dc:title>
+    <opf:meta name="calibre:timestamp" content="2026-03-11T18:01:24.452787+00:00"/>
+    <dc:language>en</dc:language>
+    <dc:creator>Unknown</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a7a6d2e6-5237-46d2-9c20-d6a39752ffe2</dc:identifier>
+  </opf:metadata>
+  <manifest>
+    <item id="html" href="longman_words_s_w.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+</package>
